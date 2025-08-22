@@ -116,11 +116,10 @@ The API is accessible at `http://localhost:8080/api/resumes`.
         ./gradlew bootRun
         ```
     * Alternatively, you can run the `ResumeBackendApplication.java` file directly from your IDE.
-    
 
 ---
 
-### About the Creator
+## About the Creator
 
 * **Name**: Jagat Singh
 * **Education**: IIT Patna, Computer Science and Data Analytics (3rd Year Student)
@@ -128,10 +127,9 @@ The API is accessible at `http://localhost:8080/api/resumes`.
 * **Email**: jagatsingh62045@gmail.com
 * **GitHub**: [itzjagat4u](https://github.com/itzjagat4u)
 
+This project was a great learning experience.
+
 ---
 
-### License
-
+## License
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
-***
