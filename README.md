@@ -48,9 +48,8 @@ To get this project up and running on your local machine, follow these steps:
     ```
 3.  **Start the development server:**
     ```bash
-    npm start
-    # or
-    yarn start
+    npm run dev
+
     ```
 4.  **Open in your browser:**
     The application will automatically open in your default browser at `http://localhost:3000`.
@@ -117,14 +116,11 @@ The API is accessible at `http://localhost:8080/api/resumes`.
         ./gradlew bootRun
         ```
     * Alternatively, you can run the `ResumeBackendApplication.java` file directly from your IDE.
+    
 
 ---
-## Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
----
 
-## About the Creator
+### About the Creator
 
 * **Name**: Jagat Singh
 * **Education**: IIT Patna, Computer Science and Data Analytics (3rd Year Student)
@@ -134,7 +130,7 @@ The API is accessible at `http://localhost:8080/api/resumes`.
 
 ---
 
-## License
+### License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
