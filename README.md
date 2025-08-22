@@ -15,7 +15,7 @@ A simple, modern, and user-friendly web application for creating, customizing, a
 
 ---
 
-## Technologies Used 🛠️
+## Technologies Used (Frontend) 🛠️
 
 * **Frontend**: React.js
 * **Styling**: Custom CSS for a clean and professional design, with specific styles for each of the four resume templates.
@@ -49,25 +49,19 @@ To get this project up and running on your local machine, follow these steps:
 3.  **Start the development server:**
     ```bash
     npm run dev
-
     ```
 4.  **Open in your browser:**
     The application will automatically open in your default browser at `http://localhost:3000`.
 
 ---
 
-### README for the Backend
-
-This README file should be placed in your `backend` folder.
-
-```markdown
-# Resume Builder Backend
+## Backend
 
 This is the backend for the Resume Builder application, built with Spring Boot. It provides a RESTful API to manage resume data, including creating, retrieving, and updating user resumes.
 
 ---
 
-## Technologies Used 🛠️
+## Technologies Used (Backend) 🛠️
 
 * **Framework**: Spring Boot
 * **Database**: MySQL
@@ -108,7 +102,6 @@ The API is accessible at `http://localhost:8080/api/resumes`.
     * Ensure your MySQL server is running.
     * Create a database named `resume_db`.
     * Update the `src/main/resources/application.properties` file with your MySQL username and password.
-
 2.  **Run the Application**:
     * Navigate to the `backend` directory in your terminal.
     * Run the application using Gradle:
@@ -132,4 +125,5 @@ This project was a great learning experience.
 ---
 
 ## License
+
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
